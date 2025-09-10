@@ -43,6 +43,6 @@
 
 ### 📊 Vitor Capeleti's GitHub Stats:
 
-[![Vitor Capeleti's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorCapeleti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Vitor Capeleti's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorCapeleti&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
