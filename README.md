@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vitor-capeleti-2a45b7218/">
+  <a href="https://www.linkedin.com/in/vitor-capeleti">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:vitorcapeleti@hotmail.com">
+  <a href="mailto:vitorcapeleti59@gmail.com">
     <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
